@@ -15,7 +15,6 @@
   <a href="https://ambitions-studio.vercel.app">Website</a> ·
   <a href="https://ambitions.gitbook.io/ambitions-documentation">Documentation</a> ·
   <a href="https://discord.gg/9T59R7xXwk">Discord</a> ·
-  <a href="https://github.com/Ambitions-Studio">GitHub</a>
 </p>
 
 <p align="center">
