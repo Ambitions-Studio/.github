@@ -5,7 +5,7 @@
   <img src="https://placehold.co/1000x220?text=Ambitions+Studio" alt="Ambitions Studio banner" />
 </p>
 
-<h1 align="center">🚀 Ambitions Studio</h1>
+<h1 align="center">Ambitions Studio</h1>
 
 <p align="center">
   The modern, scalable & open-source ecosystem for FiveM servers.
@@ -35,9 +35,9 @@ Our mission is simple:
 
 We ship tools that are:
 
-- 🔋 **Powerful** – built for real production use  
-- 🧼 **Clean & structured** – long-term maintainable  
-- 🪟 **Fully open** – no paywalls, no obfuscation, no hidden core  
+- **Powerful** – built for real production use  
+- **Clean & structured** – long-term maintainable  
+- **Fully open** – no paywalls, no obfuscation, no hidden core  
 
 ---
 
@@ -45,22 +45,22 @@ We ship tools that are:
 
 Ambitions Studio focuses on **long-term, maintainable and production-ready** solutions:
 
-- ✅ **Ambitions Framework**  
+- **Ambitions Framework**  
   The heart of the ecosystem – a modern, standalone FiveM framework written in **Lua 5.4**, publicly available and actively developed.
 
-- ✅ **Ambitions Multicharacter**  
+- **Ambitions Multicharacter**  
   A first-party multicharacter system designed to integrate tightly with Ambitions Framework while staying modular and clean.
 
-- 🧩 **Official Modules (Ecosystem)**  
+- **Official Modules (Ecosystem)**  
   Not “core”, but first-party modules that showcase best practices and UX patterns:
   - **Ambitions Notify** – lightweight notification layer  
   - **Ambitions HUD** – modern and minimal HUD  
   - More modules will arrive iteratively
 
-- 🖥️ **NUI Interfaces (coming soon)**  
+- **NUI Interfaces (coming soon)**  
   Responsive UI powered by **Vue 3** & **TailwindCSS**.
 
-- 📊 **Tooling (coming soon)**  
+- **Tooling (coming soon)**  
   Performance monitoring, logging & integrations.
 
 All components are built **from scratch**:
@@ -77,19 +77,19 @@ The only required dependency on the framework side is **oxmysql**, maintained by
 
 > Key repositories you’ll likely want to look at first.
 
-- 🚀 **Ambitions Framework**  
+- **Ambitions Framework**  
   The core of the ecosystem.  
   `https://github.com/Ambitions-Studio/Ambitions`
 
-- 👥 **Ambitions Multicharacter**  
+- **Ambitions Multicharacter**  
   First-party character system built on top of the framework.  
   `https://github.com/Ambitions-Studio/ambitions-multicharacter` *(adjust if name differs)*
 
-- 🔔 **Ambitions Notify** *(ecosystem module)*  
+- **Ambitions Notify** *(ecosystem module)*  
   Notifications system following Ambitions patterns.  
   `https://github.com/Ambitions-Studio/ambitions-notify`
 
-- 🧭 **Ambitions HUD** *(ecosystem module)*  
+- **Ambitions HUD** *(ecosystem module)*  
   Modern HUD layer showcasing UI / UX guidelines.  
   `https://github.com/Ambitions-Studio/ambitions-hud`
 
@@ -107,11 +107,11 @@ Most public frameworks are:
 
 **Ambitions** was created to bridge that gap by providing:
 
-- 🧠 A clear and consistent architecture  
-- 👨‍💻 Developer-friendly patterns  
-- 📘 Proper documentation & onboarding  
-- 🔓 Fully open-source access (no paywalls, no obfuscation)  
-- 🧩 A modular approach designed for the long run  
+- A clear and consistent architecture  
+- Developer-friendly patterns  
+- Proper documentation & onboarding  
+- Fully open-source access (no paywalls, no obfuscation)  
+- A modular approach designed for the long run  
 
 ---
 
@@ -146,10 +146,10 @@ Each project includes:
 
 You can help by:
 
-- 🐛 Fixing bugs  
-- 📈 Improving performance or architecture  
-- 🧩 Proposing and building new modules  
-- 📝 Improving documentation and examples  
+- Fixing bugs  
+- Improving performance or architecture  
+- Proposing and building new modules  
+- Improving documentation and examples  
 
 **Standard workflow:**
 
@@ -170,5 +170,5 @@ You can help by:
 ---
 
 <p align="center">
-  🎯 <em>Ambitions is more than just a framework – it’s a standard we’re building with the community.</em>
+  <em>Ambitions is more than just a framework – it’s a standard we’re building with the community.</em>
 </p>
